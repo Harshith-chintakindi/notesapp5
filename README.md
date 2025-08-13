@@ -14,17 +14,6 @@ Java JDK 8 or higher.
 
 How to Run
 Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/notes-app.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd notes-app
 Compile the Java file:
 
 bash
